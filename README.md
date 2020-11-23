@@ -1,3 +1,8 @@
+Changes
+-------
+
+Sony alpha 7M3 backported
+
 WHAT IS IT
 ----------
 
